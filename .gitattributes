@@ -1,4 +1,4 @@
-
+#由于github 是采用 Linguist来自动识别你的代码判断归为哪一类，此配置文件用来识别编写语言
 *.js linguist-language=java
 *.css linguist-language=java
 *.html linguist-language=java
