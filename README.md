@@ -1,5 +1,5 @@
 #WebChat聊天室
-**2017.01.11更新**
+**2019.11.8更新**
 ```
 - 使用mysql替换oracle 
 - 整理了一下结构, 删除了多余的代码
@@ -46,15 +46,4 @@ list是当前在线的用户名的列表,只在后台触发onopen和onclose时�
 JAR包:在webapp/file/jar,这里放了所有用到的JAR包,方便不会maven的同学,不过还是建议学一学maven
 
 项目直接导入eclipse或者idea即可
-内置两个账号:admin/admin, Amayadream/123456
-
-##五.截图
-聊天截图
-![聊天截图](https://raw.githubusercontent.com/Amayadream/WebChat/master/src/main/webapp/file/photo/1.png)
-![聊天截图](https://raw.githubusercontent.com/Amayadream/WebChat/master/src/main/webapp/file/photo/2.png)
-个人设置
-![个人设置](https://raw.githubusercontent.com/Amayadream/WebChat/master/src/main/webapp/file/photo/3.png)
-系统设置
-![系统设置](https://raw.githubusercontent.com/Amayadream/WebChat/master/src/main/webapp/file/photo/4.png)
-系统日志
-![系统日志](https://raw.githubusercontent.com/Amayadream/WebChat/master/src/main/webapp/file/photo/5.png)
+内置两个账号:admin/admin, SuperAdmin/123456
