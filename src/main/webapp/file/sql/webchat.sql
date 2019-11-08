@@ -1,17 +1,3 @@
-/*
-Navicat MySQL Data Transfer
-
-Source Server         : Amayadream
-Source Server Version : 50713
-Source Host           : localhost:3306
-Source Database       : webchat
-
-Target Server Type    : MYSQL
-Target Server Version : 50713
-File Encoding         : 65001
-
-Date: 2019-01-11 19:26:11
-*/
 
 SET FOREIGN_KEY_CHECKS=0;
 
@@ -63,5 +49,5 @@ CREATE TABLE `user` (
 -- ----------------------------
 -- Records of user
 -- ----------------------------
-INSERT INTO `user` VALUES ('SuperAdmin', '123456', 'LH', '1', '23', '', 'are you ok?', '2019-01-11 19:22:21', '2019-01-11 19:22:21', '1');
+INSERT INTO `user` VALUES ('SuperAdmin', '123456', 'LH', '1', '23', '', 'are you ok?', '2019-11-11 19:22:21', '2019-01-11 19:22:21', '1');
 INSERT INTO `user` VALUES ('admin', 'admin', 'admin', '1', '23', '', 'i\'m admin', '2019-01-11 19:22:21', '2019-01-11 19:23:20', '1');
