@@ -13,7 +13,7 @@
 数据库使用的是~~Oracle 10g~~MySQL
 前端采用[Amaze UI](http://amazeui.org/),弹窗和分页使用的是[Layer](www.layui.com),当然还有[Jquery](http://jquery.com/)...
 
-开发工具使用的是[IntelliJ IDEA 15.0.1](http://www.jetbrains.com/idea/)
+开发工具使用的是STS
 
 ##二.数据交互格式
 在WebChat中定义的前后台数据交换格式如下:
